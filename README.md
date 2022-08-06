@@ -29,6 +29,19 @@ This application was writen in Solidity within the Remix IDE desktop application
 ![setAccount](./Evaluation_Evidence/05_KaseiCoin_Crowdsale_Deploy.png)
 
 
+
+
+https://user-images.githubusercontent.com/35586344/183268668-7220b626-ddc3-4c61-8516-38f92ca858be.mp4
+
+
+
+https://user-images.githubusercontent.com/35586344/183268671-ffbdf375-11ea-4269-8793-1d87a6581472.mp4
+
+
+
+https://user-images.githubusercontent.com/35586344/183268674-d545803d-5cd2-4381-a622-40ef87842315.mp4
+
+
 ---
 
 ## Contributors
